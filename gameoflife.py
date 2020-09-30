@@ -3,9 +3,11 @@
 import curses
 import time
 import copy
+from sys import exit
+
 from random import randint
 from optparse import OptionParser
-from sys import exit
+
 
 
 VERSION = "%prog 1.0.0"
