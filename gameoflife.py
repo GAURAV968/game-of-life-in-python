@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 import curses
-import time
 import copy
+import time
 from random import randint
 from optparse import OptionParser
 from sys import exit
